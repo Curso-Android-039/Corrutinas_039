@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Corrutinas_039</string>
+    <string name="list_person">Listas de Personas</string>
+    <string name="item_persona">Item -datos de Personas</string>
+    <string name="get_list_persona"> GET LIST PERSON</string>
+
+
+</resources>
